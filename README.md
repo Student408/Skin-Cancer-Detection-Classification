@@ -1,12 +1,5 @@
-# Skin-Cancer-Detection-Classification-
-Skin cancer classification project using deep learning techniques for automated diagnosis of skin lesions.
 
-Certainly! Here's the updated README.md file with the added links:
-
-```markdown
 # Skin Cancer Classification using Deep Learning
-
-Skin cancer classification project using deep learning techniques for automated diagnosis of skin lesions.
 
 ![Skin Cancer Classification](insert_image_here)
 

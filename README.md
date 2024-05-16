@@ -86,8 +86,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-[Insert license information here]
+This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
-```
 
-Let me know if there's anything else I can assist you with!
+
+This project is made possible with the assistance of ChatGPT.
+

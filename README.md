@@ -1,7 +1,7 @@
 
 # Skin Cancer Classification using Deep Learning
 
-![Skin Cancer Classification](insert_image_here)
+![Skin Cancer Classification](skin_caner.jpg)
 
 ## Table of Contents
 

@@ -32,7 +32,7 @@ Skin cancer is one of the most prevalent types of cancer worldwide. Early detect
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/skin-cancer-classification.git
+   git clone https://github.com/Student408/Skin-Cancer-Detection-Classification.git
    ```
 
 2. Install the required dependencies listed in `requirements.txt`:

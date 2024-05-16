@@ -1,7 +1,6 @@
-========================
+
 SKIN CANCER DETECTION & CLASSIFICATION USING DEEP LEARNING
-A Detailed Report for Education & Research
-========================
+
 
 Table of Contents
 

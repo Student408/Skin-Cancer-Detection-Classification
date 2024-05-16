@@ -1,5 +1,5 @@
 
-# Skin Cancer Classification using Deep Learning
+# Skin Cancer Detection & Classification using Deep Learning
 
 ![Skin Cancer Classification](cancer.jpg)
 

@@ -20,6 +20,7 @@
 ## Introduction
 
 Skin cancer is one of the most prevalent types of cancer worldwide. Early detection plays a crucial role in successful treatment outcomes. Traditional diagnosis methods often rely on manual inspection by dermatologists, which can be time-consuming and subjective. This project aims to develop a deep learning model capable of accurately classifying skin lesions into different types of skin cancer, providing a faster and more objective diagnostic tool.
+[REPORT](Report)
 
 ## Features
 
@@ -86,7 +87,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
    - [Google Drive Zip File Extraction](https://github.com/Student408/Google-Drive-Zip-File-Extraction)
    - [Image Dataset Splitter](https://github.com/Student408/Image-Dataset-Splitter)
    - [Image Labeling](https://github.com/Student408/Image-labeling)
-[REPORT](Report)
 
 ## License
 

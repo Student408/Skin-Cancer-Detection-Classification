@@ -76,7 +76,7 @@ After training, the model's performance is evaluated on the test set to assess i
 A prediction function is provided to make predictions on new skin lesion images. Simply provide the URL of the image as input, and the function will return the predicted class along with the probabilities of each class.
 [Kaggle Notebook](https://www.kaggle.com/code/lokotwist/gpt-skin-cancer-detection)
 
-This notebook demonstrates the implementation of GPT for skin cancer detection on Kaggle.
+This notebook demonstrates the implementation of Skin Cancer Detection & Classification on Kaggle.
 
 ## Contributing
 

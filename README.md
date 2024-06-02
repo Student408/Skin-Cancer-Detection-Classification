@@ -47,8 +47,9 @@ Skin cancer is one of the most prevalent types of cancer worldwide. Early detect
 ## Usage
 
 1. Download the dataset from [ISIC Challenge](https://challenge.isic-archive.com/data).
-2. Download the pre-trained MobileNetV2 model weights.
-3. Run the Jupyter Notebook or Python script provided in the repository to:
+2. [Image Labeling](https://github.com/Student408/Image-labeling) save it in .npy
+3. Download the pre-trained MobileNetV2 model weights.
+4. Run the Jupyter Notebook or Python script provided in the repository to:
    - Train the model on the dataset.
    - Evaluate the trained model's performance.
    - Make predictions on new skin lesion images.

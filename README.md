@@ -1,5 +1,6 @@
 
 # Skin Cancer Detection & Classification using Deep Learning
+Made with ChatGPT 4o
 
 ![Skin Cancer Classification](cancer.jpg)
 

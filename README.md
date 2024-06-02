@@ -81,6 +81,9 @@ A prediction function is provided to make predictions on new skin lesion images.
 
 This notebook demonstrates the implementation of Skin Cancer Detection & Classification on Kaggle.
 
+# Kaggle Notebook
+<a href="https://www.kaggle.com/code/lokotwist/skin-cancer-detection-using-cnn" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a><br/>
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
